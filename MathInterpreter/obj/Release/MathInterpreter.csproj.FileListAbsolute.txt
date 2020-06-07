@@ -1,0 +1,7 @@
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Release\MathInterpreter.pdb
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Release\MathInterpreter.csprojAssemblyReference.cache
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Release\MathInterpreter.csproj.CoreCompileInputs.cache
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Release\MathInterpreter.pdb
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Release\MathInterpreter.exe.config
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Release\MathInterpreter.exe
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Release\MathInterpreter.exe

@@ -1,0 +1,14 @@
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.exe.config
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.exe
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.pdb
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.exe
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.pdb
+C:\Users\ianlo\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.csprojAssemblyReference.cache
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.exe.config
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.exe
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.pdb
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.csprojAssemblyReference.cache
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.csproj.CoreCompileInputs.cache
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.exe
+D:\Documents\Code\C#\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.pdb
